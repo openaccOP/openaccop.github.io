@@ -187,13 +187,43 @@ font-weight:500;
     line-height: 34px;
 
 }
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    float: right;
+    margin-top: 15px;
+}
+#logoDescHindi
+{
+  display: none;
+}
+#openAccHindi
+{
+  display: none;
+}
+#hindiheadingDepo
+{
+  display: none;
+}
+#hindiheadingWith
+{
+  display: none;
+}
 .subheading
 {
-	background:#808080;
+	background:#00af91;
 	text-align:center;
 	width:98%;
 	margin:0 auto;
-	font-size:14px;
+	font-size:16px;
   color: #ffffff;
   padding: 2px;
 	border-bottom:1px solid #cccccc;
@@ -345,6 +375,15 @@ margin: 0;
 padding: 0;
 text-align: center;
 }
+.button {
+  
+    padding: 10px 12px;
+    font-weight: bold;
+    font-size: 14px;
+    
+    margin-right: 25px;
+}
+
  .box1
  {
   width:auto;
@@ -499,6 +538,14 @@ padding: 0 30px 30px;
   margin: 2px;
   margin-bottom: 0;
 padding-bottom: 0;
+}
+.button {
+  
+    padding: 5px 12px;
+    font-weight: bold;
+    font-size: 12px;
+    float: right;
+    margin-right: 25px;
 }
 
  .wrapper
